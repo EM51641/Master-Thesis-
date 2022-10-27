@@ -1,1 +1,1 @@
-All the required data are on this fold .
+All the used data are available on this folder.
